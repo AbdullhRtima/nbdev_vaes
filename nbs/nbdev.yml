@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_vaes"
+  site-url: "https://AbdullhRtima.github.io/nbdev_vaes"
+  description: "playground to test nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/AbdullhRtima/nbdev_vaes"
